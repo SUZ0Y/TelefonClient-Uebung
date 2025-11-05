@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+	string SERVERIP = "127.0.0.1";
+	int SERVERPORT = 54321;
 	// Mehr sollte in der main() nicht stehen!
 
 	TelefonClient tc;
